@@ -21,3 +21,4 @@ Kawai To Do App made with React Native
 
 - npm 혹은 yarn에서 필요한거 설치해놓고 계속 또 설치하면 당연히 설치가 안됀다. 정신똑바로 차리고 하자!
     
+dd
